@@ -12,6 +12,7 @@ int main(void)
 	char A = 'A';
 	int n = 0;
 	while (n < 52)
+
 	{
 		if (n < 26)
 		{
