@@ -1,13 +1,7 @@
 #include <stdlib.h>
-
 #include <stdio.h>
-
 #include <time.h>
-
 /* more headers goes there */
-
-
-
 /**
  *  * main - Program entry point
  *
@@ -16,7 +10,6 @@
  * Return: 0 on success. Error code otherwise
  *
  **/
-
 int main(void)
 {
 int n, lastDigit;
