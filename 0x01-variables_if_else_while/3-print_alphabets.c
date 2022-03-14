@@ -20,10 +20,10 @@ int main(void)
 		} else
 		{
 		putchar(A);
-		A++;												
-		n++;													
+		A++;
 		}
-		putchar('\n');
-		return (1);
+		n++;
 	}
+		putchar('\n');
+		return (0);
 }
